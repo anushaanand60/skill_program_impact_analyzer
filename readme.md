@@ -59,7 +59,7 @@ Foreign key constraints ensure data integrity.
 ---
 
 ## Folder Structure
-
+```
 skill\_impact\_analyzer/
 │
 ├── data/                  # CSV data files (mock or scraped)
@@ -70,7 +70,7 @@ skill\_impact\_analyzer/
 ├── outputs/               # Generated reports (planned)
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Future Roadmap
